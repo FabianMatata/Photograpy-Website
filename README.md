@@ -8,3 +8,9 @@ Copyright violation prohibited in the above project.
 Figma url of the website design:
 
 https://www.figma.com/file/mZsUcY0e2VK4A1S5gz697A/Photography-website?node-id=0%3A1
+
+
+| moringa | school | Cool
+-----|-----| -------
+| albert | rose 
+|fred | fabian

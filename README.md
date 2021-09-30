@@ -1,12 +1,30 @@
-Photography Website.
-The project below is about a  photography website. 
-Photos of previous memories are clearly displayed in the website.
-The project contains an images folder, html and css files.
-The project is authored by Fabian Matata and all copyrights rights belong to him.
-Copyright violation prohibited in the above project.
+## Project Name
+Photography Website
 
+# About
+This a photography website showcasing photos of cars and putting them under different categories.
+
+## Author Name
+Fabian Matata
+
+## Setup Instructions
+To run this project, install it locally.
+
+## Link to live site
+Below is a  github live link that will showcase my project
+https://fabianmatata.github.io/Photograpy-Website/
+
+## Usage
+The above website is to help car lovers differentiate cars based on their different categories.
+
+## Technologies
+HTML, CSS
+
+## Figma url
 Figma url of the website design:
 
 https://www.figma.com/file/mZsUcY0e2VK4A1S5gz697A/Photography-website?node-id=0%3A1
+
+
 
 
